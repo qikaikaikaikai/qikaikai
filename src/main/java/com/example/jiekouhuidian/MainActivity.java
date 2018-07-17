@@ -5,6 +5,7 @@ import android.app.FragmentTransaction;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
@@ -33,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void initview() {
 
+        Log.d("aaa","期开爱");
     }
 
     private void initid() {
